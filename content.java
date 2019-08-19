@@ -1,6 +1,6 @@
 public class Cjwogn {
     public static void main() {
         System.out.println("afpux");
-        System.out.println("cvbuj");
+        System.out.println("hwgka");
     }
 }
